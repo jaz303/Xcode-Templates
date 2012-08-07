@@ -1,0 +1,22 @@
+#include "___FILEBASENAME___.h"
+
+___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___()
+{
+}
+
+___FILEBASENAMEASIDENTIFIER___::~___FILEBASENAMEASIDENTIFIER___()
+{
+}
+
+___FILEBASENAMEASIDENTIFIER___::___FILEBASENAMEASIDENTIFIER___(const ___FILEBASENAMEASIDENTIFIER___ &other)
+{
+}
+
+___FILEBASENAMEASIDENTIFIER___& ___FILEBASENAMEASIDENTIFIER___::operator=(const ___FILEBASENAMEASIDENTIFIER___ &other)
+{
+    if (this != &other) {
+        // do assignment
+    }
+    
+    return *this;
+}
